@@ -1,16 +1,25 @@
 <h1 align="center">Hi 👋, I'm MD. Toufiqur Rahaman</h1>
 <h3 align="center">A Passionate Full Stack Web Developer From Bangladesh</h3>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" alt="Tech Stack Gif" width="400"/>
-</p>
+<table>
+  <tr>
+    <td>
+      <ul>
+        <li>🔭 I’m currently working on <b>National Health & Information Management System</b></li>
+        <li>🌱 I’m currently learning <b>Full Stack Web Development</b></li>
+        <li>👨‍💻 All of my projects are available at <a href="https://github.com/toufiq-tech">GitHub</a></li>
+        <li>💬 Ask me about <b>TypeScript, ReactJS, NodeJS</b></li>
+        <li>📫 How to reach me <b>toufiqur10rahaman@gmail.com</b></li>
+        <li>⚡ Fun fact <b>"I am not sure whether I am an introvert or an extrovert."</b></li>
+      </ul>
+    </td>
+    <td>
+      <img src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" 
+           alt="Tech Stack Gif" width="400"/>
+    </td>
+  </tr>
+</table>
 
-- 🔭 I’m currently working on **National Health & Information Management System**  
-- 🌱 I’m currently learning **Full Stack Web Development**  
-- 👨‍💻 All of my projects are available at [my github](https://github.com/toufiq-tech)  
-- 💬 Ask me about **TypeScript, ReactJS, NodeJS**  
-- 📫 How to reach me **toufiqur10rahaman@gmail.com**  
-- ⚡ Fun fact **"I am not sure whether I am an introvert or an extrovert."**
 
 
 <h3 align="left">Connect with me:</h3>
