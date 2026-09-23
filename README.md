@@ -1,3 +1,4 @@
+<img src="Assets/Git Cover.png"/>
 <h1 align="center">Hi 👋, I'm MD. Toufiqur Rahaman</h1>
 <h3 align="center">A Passionate Full Stack Web Developer From Bangladesh</h3>
 
