@@ -1,6 +1,10 @@
 <img src="Assets/Git Cover.png"/>
-<h1 align="center">Hi 👋, I'm MD. Toufiqur Rahaman</h1>
-<h3 align="center">A Passionate Full Stack Web Developer From Bangladesh</h3>
+<h1 class="text-5xl font-extrabold mb-4 animate-pulse">
+    Hi 👋, I'm <span class="text-transparent bg-clip-text bg-gradient-to-r from-cyan-400 to-pink-500">MD. Toufiqur Rahaman</span>
+  </h1>
+  <h3 class="text-2xl font-semibold mb-6">
+    A Passionate <span class="text-yellow-400">Full Stack Web Developer</span> From <span class="text-green-400">Bangladesh</span>
+  </h3>
 
 <table>
   <tr>
