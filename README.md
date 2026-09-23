@@ -15,7 +15,7 @@
       </ul>
     </td>
     <td>
-      <img src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" 
+      <img src="Assets/techstack.gif" 
            alt="Tech Stack Gif" width="400"/>
     </td>
   </tr>
