@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm MD. Toufiqur Rahaman</h1>
 <h3 align="center">A Passionate Full Stack Web Developer From Bangladesh</h3>
 
-- 🔭 I’m currently working on **National Health & Information Management System**
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" alt="Tech Stack Gif" width="400"/>
+</p>
 
-- 🌱 I’m currently learning **Full Stack Web Development**
+- 🔭 I’m currently working on **National Health & Information Management System**  
+- 🌱 I’m currently learning **Full Stack Web Development**  
+- 👨‍💻 All of my projects are available at [my github](https://github.com/toufiq-tech)  
+- 💬 Ask me about **TypeScript, ReactJS, NodeJS**  
+- 📫 How to reach me **toufiqur10rahaman@gmail.com**  
+- ⚡ Fun fact **"I am not sure whether I am an introvert or an extrovert."**
 
-- 👨‍💻 All of my projects are available at [https://github.com/toufiq-tech](https://github.com/toufiq-tech)
-
-- 💬 Ask me about **TypeScript, ReactJS, NodeJS**
-
-- 📫 How to reach me **toufiqur10rahaman@gmail.com**
-
-- ⚡ Fun fact **"I am not sure whether I am an introvert or an extrovert.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
