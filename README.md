@@ -10,8 +10,7 @@
         <li>🌱 I’m currently learning <b>Full Stack Web Development</b></li>
         <li>👨‍💻 All of my projects are available at <a href="https://github.com/toufiq-tech">GitHub</a></li>
         <li>💬 Ask me about <b>TypeScript, ReactJS, NodeJS</b></li>
-        <li>📫 How to reach me <b>toufiqur10rahaman@gmail.com</b></li>
-        <li>⚡ Fun fact <b>"I am not sure whether I am an introvert or an extrovert."</b></li>
+        <li>📫 Contact me at  <b>toufiqur10rahaman@gmail.com</b></li>
       </ul>
     </td>
     <td>
